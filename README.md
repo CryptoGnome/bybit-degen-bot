@@ -11,7 +11,7 @@ trailing profit and stop loss to close your positions.
 
 Grab the Latest Release here:
 
-https://github.com/CryptoGnome/Bybit-Bot/releases
+https://github.com/CryptoGnome/bybit-degen-bot/releases
 
 
 Licence Keys:
