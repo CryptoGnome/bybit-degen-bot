@@ -19,7 +19,7 @@ Licence Keys:
 ---------------------------------------------------------------
 You can use our link here:
 
-https://www.bybit.com/app/register?affiliate_id=767&language=en&group_id=904&group_type=1
+https://www.bybit.com/app/exchange/BTCUSD?affiliate_id=767&language=en&group_id=584&group_type=1
 
 You can Register your UID with the BOT here:
 
